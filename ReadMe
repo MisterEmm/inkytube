@@ -1,0 +1,5 @@
+Simple sample code for the e-ink YouTube stats project.
+
+Uses the YouTube API and a Pimoroni InkypHAT to display statistics from your youtube channel.
+
+The script is configured to use a switch to choose between displaying Total Views or Total Subscribers.
