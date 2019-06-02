@@ -1,4 +1,4 @@
-Simple sample code for the e-ink YouTube stats project.
+Simple sample code for the Raspberry Pi e-ink YouTube stats project.
 
 This code uses the YouTube API and a Pimoroni InkypHAT to display statistics from your youtube channel.
 
